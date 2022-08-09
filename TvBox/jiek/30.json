@@ -20,12 +20,8 @@
 //"clan://box/jar/16qj.jar",
 //"clan://box/jar/aytx.jar",
 //##网络jar
-//"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcFZiMTJMMHZJbGhrQ1U1SlpCTmJJOUtpcHVLP2U9cXUyQ1VV.jpg;md5;06ed1a662fc19e4ea22f60f02770f4b6",
-//"https://pan.igjbbs.cn/api/v3/file/source/17847/top999.jar?sign=hL9GOdo9lpIQX5mYB0bEW7WZhCun4fBA6RFPVyFKj4E%3D%3A0",
-
-
-"https://zxyadc.github.io/TvBox/jar/top999.jar",
-//"https://pan.igjbbs.cn/api/v3/file/source/7502/%E5%B7%A7%E8%AE%B0.jar?sign=jHdXu7W-hozo1qbSZ9Lw95iQuFCKUpU37NW0WtiHxLk%3D%3A0",
+"https://zxyadc.github.io/TvBox/jar/top99.jar;md5;ddef9c71e58558d4a374a9fa56fe6076",
+//"https://raw.githubusercontentS.com/zxyadc/TvBox/main/jar/16qj.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 //##网络tv
@@ -37,7 +33,8 @@
 //"proxy://do=live&type=txt&ext=Y2xhbjovL2JveC90di9teXpiLmpzb24="]}]}],
 //"proxy://do=live&type=txt&ext=Y2xhbjovL2JveC90di5qc29uCg=="]}]}],
 
-"sites": [
+
+ "sites": [
   {"key": "csp_771"         ,"name":"👒︎七七〔P〕","type":3,"api":"csp_Kunyu77"},
 {"key": "Lib"          ,"name": "🎯Libviov〔P〕","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Auete1"   ,"name": "🎡Auete〔P〕","type": 3,"api":"csp_Auete"},
@@ -48,11 +45,11 @@
 {"key": "csp_Bttoo"    ,"name": "🤹‍♂️BT〔P〕","type": 3,"api": "csp_Bttoo"},
 //{"key": "csp_苹果"     ,"name": "🍎苹果〔P〕", "type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch":1,"filterable":1}, 
 
-{"key":"KanSJ   " ,"name": "🐞看视界","api":"csp_KanSJ","type":3},
-{"key":"csp_hby"  ,"name": "🐞简影","api":"csp_JianYing","type":3,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk"},
-{"key":"Ekan    " ,"name": "🐞Ekan","api":"csp_Ekan","type":3},
-{"key":"神马影院" ,"name": "🐞神马影视","type":3,"api":"csp_Smdyy"},
-{"key": "Lezhu  " ,"name": "🐞乐猪影视","api": "csp_Lezhu","type": 3},
+{"key":"KanSJ   " ,"name": "🐞看视界","api":"csp_KanSJ","type":3,"jar":"https://zxyadc.github.io/TvBox/jar/16qj.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"},
+{"key":"csp_hby"  ,"name": "🐞简影","api":"csp_JianYing","type":3,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU5MjQwNzQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.xB1ZZAaYwrkyLF8bD1KyQKC2tmW0myIZgUQvTVQWELk","jar":"https://zxyadc.github.io/TvBox/jar/16qj.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"},
+{"key":"Ekan    " ,"name": "🐞Ekan","api":"csp_Ekan","type":3,"jar":"https://zxyadc.github.io/TvBox/jar/16qj.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"},
+{"key":"神马影院" ,"name": "🐞神马影视","type":3,"api":"csp_Smdyy","jar":"https://zxyadc.github.io/TvBox/jar/16qj.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"},
+{"key": "Lezhu  " ,"name": "🐞乐猪影视","api": "csp_Lezhu","type": 3,"jar":"https://zxyadc.github.io/TvBox/jar/16qj.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"},
 //{"key": "酷猫"    ,"name": "🐞酷猫","type": 3,"api": "csp_Kmys","jar":"https://zxyadc.github.io/TvBox/jar/16qj.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"},
 //{"key": "293视频" ,"name": "🐞293视频","type": 3,"api": "csp_SP293","jar":"https://zxyadc.github.io/TvBox/jar/16qj.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b","playUrl":""},
 
@@ -76,7 +73,7 @@
 {"key": "csp_IQIYI"      ,"name": "🥝爱奇艺(SP)","type": 3,"api": "csp_IQIYI","jar": "https://zxyadc.github.io/TvBox/jar/aytx.jar;md5;a1b1862c50f5ccabd1aa57eb8a8f7ede","playUrl":""},
 
 
-{"key": "csp_Blixs"      ,"name":"🎧相声小品〔B〕","type": 3,"api": "csp_Blixs","jar": "https://zxyadc.github.io/TvBox/jar/aytx.jar;md5;a1b1862c50f5ccabd1aa57eb8a8f7ede"},
+{"key": "csp_Blixs"      ,"name":"🎧相声小品〔B〕","type": 3,"api": "csp_Blixs"},
 {"key": "csp_Bliyc"      ,"name":"🎤演唱会〔B〕","type": 3,"api": "csp_Bliyc"},
 {"key": "csp_Blidw"      ,"name":"👾动物世界〔B〕","type": 3,"api": "csp_Blidw"},
 {"key": "csp_Blixq"      ,"name":"🎭️戏曲〔B〕","type": 3,"api": "csp_Blixq"},
