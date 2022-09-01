@@ -1,8 +1,66 @@
 
+# TVBoxOSC
+
+![Build](https://shields.io/github/workflow/status/o0HalfLife0o/TVBoxOSC/Test?logo=github&label=Build)
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/TVBoxOSC)
+[![Download](https://img.shields.io/github/v/release/o0HalfLife0o/TVBoxOSC?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/o0HalfLife0o/TVBoxOSC/releases/latest) 
+[![Total](https://shields.io/github/downloads/o0HalfLife0o/TVBoxOSC/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/o0HalfLife0o/TVBoxOSC/releases)
+
+## Credits
+This repo relies on the following third-party projects:
+- [CatVodTVOfficial/TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
+- [q215613905/TVBoxOS](https://github.com/q215613905/TVBoxOS) (Updated: 79a074aca327ae22e6a27cb871b31d556aeefdfe)
+- [takagen99/Box](https://github.com/takagen99/Box) (Updated: a6218f071e5d4da9154b611e1c68ee7ba7fbc294)
+- 
+
+
+### 天天维护的接口，慢慢收集
+接口1:http://c.nxw.so/bbox
+
+接口2:http://xn--4bra.live/gg0825.json
+
+接口3:http://xiaoz123.ysepan.com/
+
+接口4：https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json
+
+接口5：https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json
+
+###开源仓库
+https://github.com/
+https://gitlab.com/
+
+https://gitee.com/
+https://coding.net/
+
+https://gitcode.net/
+https://gitea.com/
+https://agit.ai/
+https://notabug.org/
+
+Github RAW 加速服务
+https://www.7ed.net/#/raw-cdn
+https://raw.githubusercontents.com/用户/仓库/main(分支)/子目录/txt.txt
+
+https://ghproxy.com/ 代理
+https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json
+
+https://raw.iqiq.io/liu673cn/box/main/m.json
+
+https://doc.fastgit.org/zh-cn/guide.html#ssh-操作
+https://raw.fastgit.org/
+
+https://raw-gh.gcdn.mirr.one/
+
+Github 静态加速
+https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
+
+https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+
+https://purge.jsdelivr.net/gh/
 
 # TVBox
 
-# Box
+
 Dynamic Wallpaper for sharing :
 https://takagen-wallpaper.herokuapp.com
 
@@ -31,6 +89,7 @@ App default settings can be set here :
         }
 
     }
+
 ## TV盒子软件
 
 <https://docs.qq.com/sheet/DWnVsZU5uSkhBSHlv>
@@ -205,16 +264,6 @@ http://www.36nu.com/apiTest
 {"key":"***","name":"***","type":3,"api":"***","searchable":1,"quickSearch":1,"filterable":1,"jar":"your_other_jar"},
 
 
-
-### 天天维护的接口，慢慢收集
-
-接口1:http://xn--4bra.live/gg0825.json
-
-接口2:http://xiaoz123.ysepan.com/
-
-接口3：https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json
-
-接口4：https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json
 
 
 ## TVBox配置编辑器：
