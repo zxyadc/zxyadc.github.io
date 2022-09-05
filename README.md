@@ -17,7 +17,7 @@ This repo relies on the following third-party projects:
 ### 天天维护的接口，慢慢收集
 接口1:http://c.nxw.so/bbox
 
-接口2:http://xn--4bra.live/gg0825.json
+接口2:http://zhaxy.3vdo.work/
 
 接口3:http://xiaoz123.ysepan.com/
 
