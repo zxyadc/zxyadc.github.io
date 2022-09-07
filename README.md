@@ -17,13 +17,12 @@ This repo relies on the following third-party projects:
 ### 天天维护的接口，慢慢收集
 接口1:http://c.nxw.so/bbox
 
-接口2:http://zhaxy.3vdo.work/
 
-接口3:http://xiaoz123.ysepan.com/
+接口2:http://xiaoz123.ysepan.com/
 
-接口4：https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json
+接口3：https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json
 
-接口5：https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json
+接口4：https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json
 
 ###开源仓库
 https://github.com/
