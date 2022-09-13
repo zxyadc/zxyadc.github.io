@@ -17,8 +17,7 @@ This repo relies on the following third-party projects:
 ### 天天维护的接口，慢慢收集
 接口1:http://c.nxw.so/bbox
 
-
-接口2:http://xiaoz123.ysepan.com/
+接口2:http://刚刚.live/猫
 
 接口3：https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json
 
